@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "ビバハピ",
+  "base_artist": "Mitchie M",
+  "createdAt": "2025-12-14T13:33:13.281821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/01_ビバハピ_Mitchie_M_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_ビバハピ_Mitchie_M_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ビバハピ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_ビバハピ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/04_ビバハピ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ビバハピ feat.初音ミク",
+      "artist": "Mitchie M feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/05_ビバハピ_feat.初音ミク_Mitchie_M_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/06_ビバハピ_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_ビバハピ_Mitchie_M_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ビバハピ (feat. Hatsune Miku)",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/08_ビバハピ_(feat._Hatsune_Miku)_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "ななひら",
+      "has_synced": true,
+      "path": "select/09_ビバハピ_ななひら.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/10_ビバハピ_Mitchie_M_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ビバハピ - Viva Happy (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/11_ビバハピ_-_Viva_Happy_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/12_ビバハピ_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M feat. Hatsune Miku",
+      "has_synced": true,
+      "path": "select/13_ビバハピ_Mitchie_M_feat._Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ビバハピ feat. Hatsune Miku",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/14_ビバハピ_feat._Hatsune_Miku_Mitchie_M.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク",
+      "has_synced": true,
+      "path": "select/15_ビバハピ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/16_ビバハピ_Mitchie_M_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ビバハピ",
+      "artist": "Mitchie M; Hatsune Miku",
+      "has_synced": true,
+      "path": "select/17_ビバハピ_Mitchie_M;_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Viva Happy - ビバハピ",
+      "artist": "Mitchie M",
+      "has_synced": true,
+      "path": "select/18_Viva_Happy_-_ビバハピ_Mitchie_M.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビバハピ",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_01_ビバハピ_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ビバハピ",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_02_ビバハピ_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ビバハピ",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_03_ビバハピ_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ビバハピ",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_04_ビバハピ_初音ミク.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ビバハピ (世界史ver.)",
+      "artist": "初音ミク",
+      "has_synced": false,
+      "path": "select/pl_05_ビバハピ_(世界史ver.)_初音ミク.txt"
+    }
+  ]
+}
